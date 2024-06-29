@@ -1,0 +1,26 @@
+@relation 'biden_data_cleaned nTR'
+
+@attribute user {MarkHodder3,K87327961G,OldlaceA,penblogger,Aquarian0264,FabrizioBenass4,motter_sue,sandraanne324,pepvet,LauraD1216,palaro2017,GeneEmerick68,JGarka,candyisyummy333,5h0rtie,shut_up_stewart,2think4reals,goVoteTrump}
+@attribute text {' joebiden and we’ll find out who won in 2026',' joebiden your democratic nazi party cannot be trusted httpstcobonii0vjl0 ',' joebiden so did lying barr ',' joebiden its clear you didnt compose this tweet you cant put one sentence together and they usually last 10 minutes ',' joebiden i will vote in person thank you ',' joebiden all lives matter human rights help for young matteo benassi for human rights from italyeuropea prero… httpstcom94qyhuus4 ',' 
+joebiden justvent6 as if you kno how he voted ',' joebiden looks like your not they only sleepy democrat joe  httpstcondnpuwurfx ','joebiden pleasejustdonot youre son benefitted from your being vp we should have too but we never did ','joebiden httpstco52htk0iqoj ',' joebiden voter id is required otherwise you democrats will cheatits been proven  have some integrity ',' joebiden scared to debate ',' joebiden you would approve its only way you could beat pres trump ',' Joebiden my standard reply to propaganda httpstcoskq4oy6mhe ',' 
+joebiden richardmarx trouble is trump voted for  person  woman  man  camera  tv   ',' joebiden i honestly cannot comprehend how a country as important as the usa can fuck up its election system so bad… httpstcojmyf7hjq4w ','
+joebiden why ',' joebiden he also runs his own twitter you should be able to as well}
+@data
+MarkHodder3,joebiden and we’ll find out who won in 2026,0
+K87327961G,joebiden your democratic nazi party cannot be trusted httpstcobonii0vjl0,0
+OldlaceA,joebiden so did lying barr,0
+penblogger,joebiden its clear you didnt compose this tweet you cant put one sentence together and they usually last 10 minutes,0.05
+Aquarian0264,joebiden i will vote in person thank you,0
+FabrizioBenass4,joebiden all lives matter human rights help for young matteo benassi for human rights from italyeuropea prero… httpstcom94qyhuus4,0.033333333
+motter_sue,joebiden justvent6 as if you kno how he voted,0
+sandraanne324,joebiden looks like your not they only sleepy democrat joe  httpstcondnpuwurfx,0
+pepvet,joebiden pleasejustdonot youre son benefitted from your being vp we should have too but we never did,0
+LauraD1216,joebiden httpstco52htk0iqoj,0
+palaro2017,joebiden voter id is required otherwise you democrats will cheatits been proven  have some integrity ,0
+GeneEmerick68,joebiden scared to debate,0
+JGarka,joebiden you would approve its only way you could beat pres trump,0
+candyisyummy333,joebiden my standard reply to propaganda httpstcoskq4oy6mhe,-0.05
+5h0rtie,joebiden richardmarx trouble is trump voted for  person  woman  man  camera  tv   ,-0.2
+shut_up_stewart,joebiden i honestly cannot comprehend how a country as important as the usa can fuck up its election system so bad… httpstcojmyf7hjq4w,0.2
+2think4reals,joebiden why,0
+goVoteTrump,joebiden he also runs his own twitter you should be able to as well,0.55
